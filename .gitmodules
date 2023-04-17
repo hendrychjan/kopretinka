@@ -1,0 +1,9 @@
+[submodule "src/firmware"]
+	path = src/firmware
+	url = git@github.com:hendrychjan/kopretinka_firmware.git
+[submodule "src/server"]
+	path = src/server
+	url = git@github.com:hendrychjan/kopretinka_server.git
+[submodule "src/flutter"]
+	path = src/flutter
+	url = git@github.com:hendrychjan/kopretinka_flutter.git
