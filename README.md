@@ -1,1 +1,3 @@
-# kopretinka
+# Kopretinka
+
+Zavlažovací systém.
