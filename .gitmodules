@@ -7,3 +7,6 @@
 [submodule "src/flutter"]
 	path = src/flutter
 	url = git@github.com:hendrychjan/kopretinka_flutter.git
+[submodule "src/controller"]
+	path = src/controller
+	url = git@github.com:hendrychjan/kopretinka_local_server.git
